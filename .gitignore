@@ -1,0 +1,10 @@
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+*.exe
+.ipynb_checkpoints
+notebooks/
